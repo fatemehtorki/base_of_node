@@ -29,7 +29,7 @@
     "node-unique-id-generator": "^0.1.0",
     "path": "^0.12.7",
     "response-format": "^1.2.0",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
